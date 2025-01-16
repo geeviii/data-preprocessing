@@ -29,21 +29,24 @@ Install required libraries using:
 ```bash
 pip install pandas numpy
 ```
-**## Output**
+
+## Output
 * Cleaned Dataset: Ready-to-use CSV file for further analysis or modeling.
 * Correlation Matrix: A CSV file representing the correlation coefficients between numerical features.
 * Reshaped Correlation Matrix: A CSV file containing the reshaped correlation matrix. 
 
-**## Example**
+## Example
 * The visualised data using tableau public:
   
   ![image](https://github.com/user-attachments/assets/833b5349-1f43-4aa1-824c-4d799c05bc4a)
 
   link: https://public.tableau.com/views/TDDforNSL-KDDDatabase/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+
 * Sample correlation matrix:
   
   ![image](https://github.com/user-attachments/assets/e4b66662-1040-4a57-b809-be1663661e36)
+
 
 
 * Sample reshaped correlation matrix:
