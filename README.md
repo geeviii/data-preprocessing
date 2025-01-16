@@ -1,4 +1,4 @@
-# Data Preprocessing and Correlation Matrix for NSL-KDD Dataset  
+# Data Preprocessing and Correlation Matrix for Dataset  
 This repository contains Python code for preprocessing the NSL-KDD dataset and generating a correlation matrix to analyze feature relationships. This project was useful for understanding feature interactions and preparing the dataset for machine learning or visualization tasks.  
 
 ## Overview  
